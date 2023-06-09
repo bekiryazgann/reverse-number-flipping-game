@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body{
+  @apply h-full text-white overflow-hidden
+}
+
+body{
+  background: linear-gradient(180deg, rgba(24, 24, 27) 40.71%, rgba(0, 0, 0) 240.34%);
+}
+
+*{
+  @apply focus:outline-none
+}
