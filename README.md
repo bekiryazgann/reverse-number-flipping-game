@@ -34,4 +34,4 @@ Reverse Number Flipping Game is a simple numerical puzzle game where players try
 
 ## Screenshots
 
-![Gameplay](/screenshots/gamelplay.png)
+![Gameplay](/screenshots/gamelpay.png)
